@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Hello. I'm Miles. Learing to code, while patiently waiting to escape :-) 
